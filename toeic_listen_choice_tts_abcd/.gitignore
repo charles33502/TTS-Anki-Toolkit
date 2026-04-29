@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Generated audio / Anki output
+output/
+output_anki/
+toeic_listen_abc_output/
+toeic_listen_abcd_output/
+*.mp3
+*.tsv
+
+# Real input files
+sentences.txt
+toeic_listen_questions_abc.txt
+toeic_listen_questions_abcd.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
